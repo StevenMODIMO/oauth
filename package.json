@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "cookie-session": "^2.0.0",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "mongoose": "^6.8.4",
+    "passport": "^0.6.0",
+    "passport-google-oauth20": "^2.0.0"
+  },
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "name": "oauth",
+  "version": "1.0.0",
+  "main": "server.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
